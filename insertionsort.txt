@@ -1,0 +1,12 @@
+[20,10,30,5,7]
+check index 0 with index 1 and if index 0>index 1-> swap
+[10,20,30,5,7]
+index 1<index2 no swapping 
+index 2>index 3-> swapping
+[10,20,5,30,7]
+continued
+[10,20,5,7,30]
+[5,10,20,7,30]
+[5,10,7,20,30]
+[5,7,10,20,30]
+STOP
